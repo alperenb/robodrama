@@ -1,0 +1,6 @@
+--outputdir
+Results/
+--report
+RoboDrama.html
+--log
+RoboDrama.log
